@@ -1,0 +1,37 @@
+﻿@model List<Booking>
+@{
+    ViewData["Title"] = "BookingList";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+    int count = 0;
+}
+
+<h1>Gelen Randevular</h1>
+
+<table class="table table-bordered">
+    <tr style="background-color:brown; color:white">
+        <th>#</th>
+        <th>Gönderen</th>
+        <th>Konu</th>
+        <th>Tarih</th>
+        <th>Organizasyon tipi</th>
+        <th>Kaç Kişi</th>
+        <th>Mail</th>
+        <th>Mesajı Sil</th>
+        <th>Mesajı Gör</th>
+    </tr>
+    @foreach (var item in Model)
+    {
+        count++;
+        <tr>
+            <td>@count</td>
+            <td>@item.CustomerName</td>
+            <td>@item.Subject</td>
+            <td>@Convert.ToDateTime(@item.BookingDate).ToString("dd/MM/yyyy")</td>
+            <td>@item.OrganizationType</td>
+            <td>@item.People</td>
+            <td>@item.Mail</td>
+            <td> <a href="/Booking/DeleteBooking/@item.BookingID" class="btn btn-danger">Sil</a>  </td>
+            <td> <a href="/Booking/MessageDetailsBooking/@item.BookingID" class="btn btn-info">Detay</a> </td>
+        </tr>
+    }
+</table>

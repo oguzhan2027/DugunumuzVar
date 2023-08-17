@@ -1,0 +1,17 @@
+C:\Users\OGUZHAN\source\repos\DugunuzmuzVar\DugunumuzVar.DataAccessLayer\bin\Debug\net6.0\DugunumuzVar.DataAccessLayer.deps.json
+C:\Users\OGUZHAN\source\repos\DugunuzmuzVar\DugunumuzVar.DataAccessLayer\bin\Debug\net6.0\DugunumuzVar.DataAccessLayer.runtimeconfig.json
+C:\Users\OGUZHAN\source\repos\DugunuzmuzVar\DugunumuzVar.DataAccessLayer\bin\Debug\net6.0\DugunumuzVar.DataAccessLayer.dll
+C:\Users\OGUZHAN\source\repos\DugunuzmuzVar\DugunumuzVar.DataAccessLayer\bin\Debug\net6.0\DugunumuzVar.DataAccessLayer.pdb
+C:\Users\OGUZHAN\source\repos\DugunuzmuzVar\DugunumuzVar.DataAccessLayer\bin\Debug\net6.0\DugunumuzVar.EntityLayer.dll
+C:\Users\OGUZHAN\source\repos\DugunuzmuzVar\DugunumuzVar.DataAccessLayer\bin\Debug\net6.0\DugunumuzVar.EntityLayer.pdb
+C:\Users\OGUZHAN\source\repos\DugunuzmuzVar\DugunumuzVar.DataAccessLayer\obj\Debug\net6.0\DugunumuzVar.DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\OGUZHAN\source\repos\DugunuzmuzVar\DugunumuzVar.DataAccessLayer\obj\Debug\net6.0\DugunumuzVar.DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OGUZHAN\source\repos\DugunuzmuzVar\DugunumuzVar.DataAccessLayer\obj\Debug\net6.0\DugunumuzVar.DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\OGUZHAN\source\repos\DugunuzmuzVar\DugunumuzVar.DataAccessLayer\obj\Debug\net6.0\DugunumuzVar.DataAccessLayer.AssemblyInfo.cs
+C:\Users\OGUZHAN\source\repos\DugunuzmuzVar\DugunumuzVar.DataAccessLayer\obj\Debug\net6.0\DugunumuzVar.DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\OGUZHAN\source\repos\DugunuzmuzVar\DugunumuzVar.DataAccessLayer\obj\Debug\net6.0\DugunumuzVar.DataAccessLayer.csproj.CopyComplete
+C:\Users\OGUZHAN\source\repos\DugunuzmuzVar\DugunumuzVar.DataAccessLayer\obj\Debug\net6.0\DugunumuzVar.DataAccessLayer.dll
+C:\Users\OGUZHAN\source\repos\DugunuzmuzVar\DugunumuzVar.DataAccessLayer\obj\Debug\net6.0\refint\DugunumuzVar.DataAccessLayer.dll
+C:\Users\OGUZHAN\source\repos\DugunuzmuzVar\DugunumuzVar.DataAccessLayer\obj\Debug\net6.0\DugunumuzVar.DataAccessLayer.pdb
+C:\Users\OGUZHAN\source\repos\DugunuzmuzVar\DugunumuzVar.DataAccessLayer\obj\Debug\net6.0\DugunumuzVar.DataAccessLayer.genruntimeconfig.cache
+C:\Users\OGUZHAN\source\repos\DugunuzmuzVar\DugunumuzVar.DataAccessLayer\obj\Debug\net6.0\ref\DugunumuzVar.DataAccessLayer.dll

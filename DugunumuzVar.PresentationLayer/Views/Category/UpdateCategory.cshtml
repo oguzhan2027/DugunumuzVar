@@ -1,0 +1,17 @@
+﻿@model DugunumuzVar.EntityLayer.Concrete.Category
+
+@{
+    ViewData["Title"] = "UpdateCategory";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<h1>Organizasyon Güncelleme Sayfası</h1>
+
+<form method="post">
+    <input type="hidden" asp-for="CategoryID" class="form-control border" style="color:black !important" />
+    <label>Organizasyon Adı</label>
+    <input type="text" asp-for="CategoryName" class="form-control border" style="color:black !important" />
+    <br />
+    <button class="btn btn-info">Güncelle</button>
+</form>
+

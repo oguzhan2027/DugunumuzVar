@@ -1,0 +1,241 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = DugunumuzVar.PresentationLayer
+build_property.RootNamespace = DugunumuzVar.PresentationLayer
+build_property.ProjectDir = C:\Users\OGUZHAN\source\repos\DugunuzmuzVar\DugunumuzVar.PresentationLayer\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\OGUZHAN\source\repos\DugunuzmuzVar\DugunumuzVar.PresentationLayer
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/OGUZHAN/source/repos/DugunuzmuzVar/DugunumuzVar.PresentationLayer/Views/About/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWJvdXRcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/OGUZHAN/source/repos/DugunuzmuzVar/DugunumuzVar.PresentationLayer/Views/Booking/BookingList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va2luZ1xCb29raW5nTGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/OGUZHAN/source/repos/DugunuzmuzVar/DugunumuzVar.PresentationLayer/Views/Booking/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va2luZ1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/OGUZHAN/source/repos/DugunuzmuzVar/DugunumuzVar.PresentationLayer/Views/Booking/MessageDetailsBooking.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va2luZ1xNZXNzYWdlRGV0YWlsc0Jvb2tpbmcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/OGUZHAN/source/repos/DugunuzmuzVar/DugunumuzVar.PresentationLayer/Views/Category/AddCategory.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcQWRkQ2F0ZWdvcnkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/OGUZHAN/source/repos/DugunuzmuzVar/DugunumuzVar.PresentationLayer/Views/Category/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/OGUZHAN/source/repos/DugunuzmuzVar/DugunumuzVar.PresentationLayer/Views/Category/UpdateCategory.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcVXBkYXRlQ2F0ZWdvcnkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/OGUZHAN/source/repos/DugunuzmuzVar/DugunumuzVar.PresentationLayer/Views/Contact/ContactList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFjdFxDb250YWN0TGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/OGUZHAN/source/repos/DugunuzmuzVar/DugunumuzVar.PresentationLayer/Views/Contact/GetMessageByThanks.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFjdFxHZXRNZXNzYWdlQnlUaGFua3MuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/OGUZHAN/source/repos/DugunuzmuzVar/DugunumuzVar.PresentationLayer/Views/Contact/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFjdFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/OGUZHAN/source/repos/DugunuzmuzVar/DugunumuzVar.PresentationLayer/Views/Contact/MessageDetailsContact.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFjdFxNZXNzYWdlRGV0YWlsc0NvbnRhY3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/OGUZHAN/source/repos/DugunuzmuzVar/DugunumuzVar.PresentationLayer/Views/Coupon/AddCoupon.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291cG9uXEFkZENvdXBvbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/OGUZHAN/source/repos/DugunuzmuzVar/DugunumuzVar.PresentationLayer/Views/Coupon/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291cG9uXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/OGUZHAN/source/repos/DugunuzmuzVar/DugunumuzVar.PresentationLayer/Views/Default/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVmYXVsdFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/OGUZHAN/source/repos/DugunuzmuzVar/DugunumuzVar.PresentationLayer/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/OGUZHAN/source/repos/DugunuzmuzVar/DugunumuzVar.PresentationLayer/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/OGUZHAN/source/repos/DugunuzmuzVar/DugunumuzVar.PresentationLayer/Views/Login/ConfirmEmail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cQ29uZmlybUVtYWlsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/OGUZHAN/source/repos/DugunuzmuzVar/DugunumuzVar.PresentationLayer/Views/Login/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/OGUZHAN/source/repos/DugunuzmuzVar/DugunumuzVar.PresentationLayer/Views/OurTeam/AddOurTeam.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3VyVGVhbVxBZGRPdXJUZWFtLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/OGUZHAN/source/repos/DugunuzmuzVar/DugunumuzVar.PresentationLayer/Views/OurTeam/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3VyVGVhbVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/OGUZHAN/source/repos/DugunuzmuzVar/DugunumuzVar.PresentationLayer/Views/OurTeam/UpdateOurTeam.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3VyVGVhbVxVcGRhdGVPdXJUZWFtLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/OGUZHAN/source/repos/DugunuzmuzVar/DugunumuzVar.PresentationLayer/Views/ProductImage/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdEltYWdlXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/OGUZHAN/source/repos/DugunuzmuzVar/DugunumuzVar.PresentationLayer/Views/Product/AddProduct.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxBZGRQcm9kdWN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/OGUZHAN/source/repos/DugunuzmuzVar/DugunumuzVar.PresentationLayer/Views/Product/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/OGUZHAN/source/repos/DugunuzmuzVar/DugunumuzVar.PresentationLayer/Views/Product/UpdateProduct.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxVcGRhdGVQcm9kdWN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/OGUZHAN/source/repos/DugunuzmuzVar/DugunumuzVar.PresentationLayer/Views/Register/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVnaXN0ZXJcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/OGUZHAN/source/repos/DugunuzmuzVar/DugunumuzVar.PresentationLayer/Views/SendMail/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VuZE1haWxcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/OGUZHAN/source/repos/DugunuzmuzVar/DugunumuzVar.PresentationLayer/Views/Services/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VydmljZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/OGUZHAN/source/repos/DugunuzmuzVar/DugunumuzVar.PresentationLayer/Views/Settings/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2V0dGluZ3NcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/OGUZHAN/source/repos/DugunuzmuzVar/DugunumuzVar.PresentationLayer/Views/Shared/Components/_BookingPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0Jvb2tpbmdQYXJ0aWFsXERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/OGUZHAN/source/repos/DugunuzmuzVar/DugunumuzVar.PresentationLayer/Views/Shared/Components/_CampaignPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0NhbXBhaWduUGFydGlhbFxEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/OGUZHAN/source/repos/DugunuzmuzVar/DugunumuzVar.PresentationLayer/Views/Shared/Components/_ContactFormPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0NvbnRhY3RGb3JtUGFydGlhbFxEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/OGUZHAN/source/repos/DugunuzmuzVar/DugunumuzVar.PresentationLayer/Views/Shared/Components/_ContactPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0NvbnRhY3RQYXJ0aWFsXERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/OGUZHAN/source/repos/DugunuzmuzVar/DugunumuzVar.PresentationLayer/Views/Shared/Components/_FeaturePartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0ZlYXR1cmVQYXJ0aWFsXERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/OGUZHAN/source/repos/DugunuzmuzVar/DugunumuzVar.PresentationLayer/Views/Shared/Components/_FooterPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0Zvb3RlclBhcnRpYWxcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/OGUZHAN/source/repos/DugunuzmuzVar/DugunumuzVar.PresentationLayer/Views/Shared/Components/_HeadPartialAbout/About.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0hlYWRQYXJ0aWFsQWJvdXRcQWJvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/OGUZHAN/source/repos/DugunuzmuzVar/DugunumuzVar.PresentationLayer/Views/Shared/Components/_HeadPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0hlYWRQYXJ0aWFsXERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/OGUZHAN/source/repos/DugunuzmuzVar/DugunumuzVar.PresentationLayer/Views/Shared/Components/_NavbarPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX05hdmJhclBhcnRpYWxcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/OGUZHAN/source/repos/DugunuzmuzVar/DugunumuzVar.PresentationLayer/Views/Shared/Components/_OurTeamPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX091clRlYW1QYXJ0aWFsXERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/OGUZHAN/source/repos/DugunuzmuzVar/DugunumuzVar.PresentationLayer/Views/Shared/Components/_PizzaGalleryPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX1BpenphR2FsbGVyeVBhcnRpYWxcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/OGUZHAN/source/repos/DugunuzmuzVar/DugunumuzVar.PresentationLayer/Views/Shared/Components/_ProductPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX1Byb2R1Y3RQYXJ0aWFsXERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/OGUZHAN/source/repos/DugunuzmuzVar/DugunumuzVar.PresentationLayer/Views/Shared/Components/_ScriptPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX1NjcmlwdFBhcnRpYWxcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/OGUZHAN/source/repos/DugunuzmuzVar/DugunumuzVar.PresentationLayer/Views/Shared/Components/_ServiceMenuPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX1NlcnZpY2VNZW51UGFydGlhbFxEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/OGUZHAN/source/repos/DugunuzmuzVar/DugunumuzVar.PresentationLayer/Views/Shared/Components/_ServicesPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX1NlcnZpY2VzUGFydGlhbFxEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/OGUZHAN/source/repos/DugunuzmuzVar/DugunumuzVar.PresentationLayer/Views/Shared/Components/_StatisticPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX1N0YXRpc3RpY1BhcnRpYWxcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/OGUZHAN/source/repos/DugunuzmuzVar/DugunumuzVar.PresentationLayer/Views/Shared/Components/_TestimonialPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX1Rlc3RpbW9uaWFsUGFydGlhbFxEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/OGUZHAN/source/repos/DugunuzmuzVar/DugunumuzVar.PresentationLayer/Views/Shared/Components/_WhoAreWePartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX1dob0FyZVdlUGFydGlhbFxEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/OGUZHAN/source/repos/DugunuzmuzVar/DugunumuzVar.PresentationLayer/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/OGUZHAN/source/repos/DugunuzmuzVar/DugunumuzVar.PresentationLayer/Views/Shared/_AdminLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9BZG1pbkxheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/OGUZHAN/source/repos/DugunuzmuzVar/DugunumuzVar.PresentationLayer/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/OGUZHAN/source/repos/DugunuzmuzVar/DugunumuzVar.PresentationLayer/Views/Testimonial/AddTestimonial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVzdGltb25pYWxcQWRkVGVzdGltb25pYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/OGUZHAN/source/repos/DugunuzmuzVar/DugunumuzVar.PresentationLayer/Views/Testimonial/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVzdGltb25pYWxcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/OGUZHAN/source/repos/DugunuzmuzVar/DugunumuzVar.PresentationLayer/Views/Testimonial/TestimonialDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVzdGltb25pYWxcVGVzdGltb25pYWxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/OGUZHAN/source/repos/DugunuzmuzVar/DugunumuzVar.PresentationLayer/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/OGUZHAN/source/repos/DugunuzmuzVar/DugunumuzVar.PresentationLayer/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/OGUZHAN/source/repos/DugunuzmuzVar/DugunumuzVar.PresentationLayer/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-7h94t4yw38

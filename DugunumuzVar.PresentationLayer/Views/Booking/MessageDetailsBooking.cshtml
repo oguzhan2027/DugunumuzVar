@@ -1,0 +1,30 @@
+﻿@model DugunumuzVar.EntityLayer.Concrete.Booking
+@{
+    ViewData["Title"] = "MessageDetailsBooking";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<h1>Randevu detayları</h1>
+
+<label>Müşteri Adı</label>
+<input asp-for="CustomerName" class="form-control border" style="color:black !important" />
+<br />
+<label>Konu</label>
+<input asp-for="Subject" class="form-control border" style="color:black !important" />
+<br />
+@* <label>Tarih</label>
+<input asp-for="BookingDate" class="form-control border" style="color:black !important" />
+<br /> *@
+<label>Tarih </label>
+<input asp-for="BookingDate" type="date" class="form-control border" style="color:black !important" />
+<br />
+<br />
+<label>Email Adresi</label>
+<input asp-for="Mail" class="form-control border" style="color:black !important" />
+<br />
+<label>Kişi</label>
+<textarea asp-for="People" class="form-control border" type="" style="color:black !important"></textarea>
+<br />
+<label>Organizasyon tipi</label>
+<textarea asp-for="OrganizationType" class="form-control border" type="" style="color:black !important"></textarea>
+<br />

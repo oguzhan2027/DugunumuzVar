@@ -1,0 +1,17 @@
+C:\Users\OGUZHAN\source\repos\DugunuzmuzVar\DugunumuzVar.BussinessLayer\bin\Debug\net6.0\DugunumuzVar.BussinessLayer.deps.json
+C:\Users\OGUZHAN\source\repos\DugunuzmuzVar\DugunumuzVar.BussinessLayer\bin\Debug\net6.0\DugunumuzVar.BussinessLayer.dll
+C:\Users\OGUZHAN\source\repos\DugunuzmuzVar\DugunumuzVar.BussinessLayer\bin\Debug\net6.0\DugunumuzVar.BussinessLayer.pdb
+C:\Users\OGUZHAN\source\repos\DugunuzmuzVar\DugunumuzVar.BussinessLayer\bin\Debug\net6.0\DugunumuzVar.DataAccessLayer.dll
+C:\Users\OGUZHAN\source\repos\DugunuzmuzVar\DugunumuzVar.BussinessLayer\bin\Debug\net6.0\DugunumuzVar.EntityLayer.dll
+C:\Users\OGUZHAN\source\repos\DugunuzmuzVar\DugunumuzVar.BussinessLayer\bin\Debug\net6.0\DugunumuzVar.DataAccessLayer.pdb
+C:\Users\OGUZHAN\source\repos\DugunuzmuzVar\DugunumuzVar.BussinessLayer\bin\Debug\net6.0\DugunumuzVar.EntityLayer.pdb
+C:\Users\OGUZHAN\source\repos\DugunuzmuzVar\DugunumuzVar.BussinessLayer\obj\Debug\net6.0\DugunumuzVar.BussinessLayer.csproj.AssemblyReference.cache
+C:\Users\OGUZHAN\source\repos\DugunuzmuzVar\DugunumuzVar.BussinessLayer\obj\Debug\net6.0\DugunumuzVar.BussinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OGUZHAN\source\repos\DugunuzmuzVar\DugunumuzVar.BussinessLayer\obj\Debug\net6.0\DugunumuzVar.BussinessLayer.AssemblyInfoInputs.cache
+C:\Users\OGUZHAN\source\repos\DugunuzmuzVar\DugunumuzVar.BussinessLayer\obj\Debug\net6.0\DugunumuzVar.BussinessLayer.AssemblyInfo.cs
+C:\Users\OGUZHAN\source\repos\DugunuzmuzVar\DugunumuzVar.BussinessLayer\obj\Debug\net6.0\DugunumuzVar.BussinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\OGUZHAN\source\repos\DugunuzmuzVar\DugunumuzVar.BussinessLayer\obj\Debug\net6.0\DugunumuzVar.BussinessLayer.csproj.CopyComplete
+C:\Users\OGUZHAN\source\repos\DugunuzmuzVar\DugunumuzVar.BussinessLayer\obj\Debug\net6.0\DugunumuzVar.BussinessLayer.dll
+C:\Users\OGUZHAN\source\repos\DugunuzmuzVar\DugunumuzVar.BussinessLayer\obj\Debug\net6.0\refint\DugunumuzVar.BussinessLayer.dll
+C:\Users\OGUZHAN\source\repos\DugunuzmuzVar\DugunumuzVar.BussinessLayer\obj\Debug\net6.0\DugunumuzVar.BussinessLayer.pdb
+C:\Users\OGUZHAN\source\repos\DugunuzmuzVar\DugunumuzVar.BussinessLayer\obj\Debug\net6.0\ref\DugunumuzVar.BussinessLayer.dll

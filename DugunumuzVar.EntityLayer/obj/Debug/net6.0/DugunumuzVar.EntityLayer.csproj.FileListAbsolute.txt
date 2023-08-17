@@ -1,0 +1,14 @@
+C:\Users\OGUZHAN\source\repos\DugunuzmuzVar\DugunumuzVar.EntityLayer\bin\Debug\net6.0\DugunumuzVar.EntityLayer.deps.json
+C:\Users\OGUZHAN\source\repos\DugunuzmuzVar\DugunumuzVar.EntityLayer\bin\Debug\net6.0\DugunumuzVar.EntityLayer.runtimeconfig.json
+C:\Users\OGUZHAN\source\repos\DugunuzmuzVar\DugunumuzVar.EntityLayer\bin\Debug\net6.0\DugunumuzVar.EntityLayer.dll
+C:\Users\OGUZHAN\source\repos\DugunuzmuzVar\DugunumuzVar.EntityLayer\bin\Debug\net6.0\DugunumuzVar.EntityLayer.pdb
+C:\Users\OGUZHAN\source\repos\DugunuzmuzVar\DugunumuzVar.EntityLayer\obj\Debug\net6.0\DugunumuzVar.EntityLayer.csproj.AssemblyReference.cache
+C:\Users\OGUZHAN\source\repos\DugunuzmuzVar\DugunumuzVar.EntityLayer\obj\Debug\net6.0\DugunumuzVar.EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OGUZHAN\source\repos\DugunuzmuzVar\DugunumuzVar.EntityLayer\obj\Debug\net6.0\DugunumuzVar.EntityLayer.AssemblyInfoInputs.cache
+C:\Users\OGUZHAN\source\repos\DugunuzmuzVar\DugunumuzVar.EntityLayer\obj\Debug\net6.0\DugunumuzVar.EntityLayer.AssemblyInfo.cs
+C:\Users\OGUZHAN\source\repos\DugunuzmuzVar\DugunumuzVar.EntityLayer\obj\Debug\net6.0\DugunumuzVar.EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\OGUZHAN\source\repos\DugunuzmuzVar\DugunumuzVar.EntityLayer\obj\Debug\net6.0\DugunumuzVar.EntityLayer.dll
+C:\Users\OGUZHAN\source\repos\DugunuzmuzVar\DugunumuzVar.EntityLayer\obj\Debug\net6.0\refint\DugunumuzVar.EntityLayer.dll
+C:\Users\OGUZHAN\source\repos\DugunuzmuzVar\DugunumuzVar.EntityLayer\obj\Debug\net6.0\DugunumuzVar.EntityLayer.pdb
+C:\Users\OGUZHAN\source\repos\DugunuzmuzVar\DugunumuzVar.EntityLayer\obj\Debug\net6.0\DugunumuzVar.EntityLayer.genruntimeconfig.cache
+C:\Users\OGUZHAN\source\repos\DugunuzmuzVar\DugunumuzVar.EntityLayer\obj\Debug\net6.0\ref\DugunumuzVar.EntityLayer.dll

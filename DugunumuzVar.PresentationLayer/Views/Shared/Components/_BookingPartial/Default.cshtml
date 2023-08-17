@@ -1,0 +1,99 @@
+﻿@{
+    Layout = null;
+}
+
+<section class="w3l-breadcrumb">
+    <div class="container">
+        <ul class="breadcrumbs-custom-path">
+            <li><a href="#url">Ana Sayfa</a></li>
+            <li class="active"><span class="fa fa-arrow-right mx-2" aria-hidden="true"></span> İletişim</li>
+        </ul>
+    </div>
+</section>
+<section class="w3l-contact-11 py-5">
+    <div class="contacts-main py-lg-5 py-md-4">
+        <div class="contant11-top-bg">
+            <div class="container">
+                <div class="title-content text-center">
+                    <h6 class="sub-title">İletişim</h6>
+                    <h3 class="title-big">Bize Ulaşın</h3>
+                </div>
+                <div class="d-grid contact section-gap mt-lg-5 mt-4">
+                    <div class="contact-info-left d-grid text-center">
+                        <div class="contact-info">
+                            <span class="fa fa-map-marker" aria-hidden="true"></span>
+                            <h4>Adres</h4>
+                            <p>Ankara - Pursaklar</p>
+                        </div>
+                        <div class="contact-info">
+                            <span class="fa fa-phone" aria-hidden="true"></span>
+                            <h4>İletişim</h4>
+                            <p><a href="tel:+1-2345-678-11">+90-552-599-38-48</a></p>
+                            <p><a href="mailto:pizza@order.com" class="email">pizzapan@gmail.com</a></p>
+                        </div>
+                        <div class="contact-info">
+                            <span class="fa fa-clock-o" aria-hidden="true"></span>
+                            <h4>Çalışma Saatleri</h4>
+                            <p>Pazartesi - Pazar</p>
+                            <p> 09:00 - 24:00</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="form-41-mian section-gap mt-5">
+            <div class="container">
+                <div class="d-grid align-form-map">
+                    <div class="form-inner-cont">
+                        <form action="/Booking/AddBooking/" method="post" class="signin-form">
+                            <div class="form-input">
+                                <label for="CustomerName">Adınız</label>
+                                <input type="text" name="CustomerName" id="w3lName" required="" />
+                            </div>
+                            <div class="form-input">
+                                <label for="Mail">Email</label>
+                                <input type="email" name="Mail" id="w3lSender" required="" />
+                            </div>
+                            <div class="form-input">
+                                <label for="Subject">Konu</label>
+                                <input type="text" name="Subject" id="w3lName" required="" />
+                            </div>
+                           @*  <div class="form-input">
+                                <label for="BookingDate">Tarih</label>
+                                <input type="date" name="BookingDate" placeholder="Date" required="" />
+                            </div> *@
+                           @*  <div class="form-input">
+                                <label for="BookingDate">Tarih</label>
+                                <input type="date" name="BookingDate" placeholder="Tarih" id="w3Date" required  />
+                            </div> *@
+                            <div class="form-input col-md-4 mt-3">
+                                <label>Date</label>
+                                <input type="date" name="BookingDate" placeholder="Date" required="">
+                            </div>
+                            <div class="form-input">
+                                <label for="People">Organizasyon Kaç Kişilik</label>
+                                <input type="number" name="People" id="w3lNumber" required="" min="0" />
+                            </div>
+                            <div class="form-input col-md-4">
+                                <label>Organizasyon tipi Seçin</label>
+                                <select name="OrganizationType" class="selectpicker">
+                                    <option value="">Seçiniz</option>
+                                    <option value="Düğün">Düğün</option>
+                                    <option value="Nişan">Nişan</option>
+                                    <option value="Kına">Kına</option>
+                                    <option value="Sünnet">Sünnet</option>
+                                    
+                                </select>
+
+                            </div>
+
+                            <button type="submit" class="btn btn-style btn-primary">Gönder</button>
+
+                        </form>
+                    </div>
+                   
+                </div>
+            </div>
+        </div>
+</section>
+<!-- footers 20 -->

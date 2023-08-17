@@ -1,0 +1,11 @@
+C:\Users\OGUZHAN\source\repos\DugunuzmuzVar\DugunumuzVar.DtoLayer\bin\Debug\net6.0\DugunumuzVar.DtoLayer.deps.json
+C:\Users\OGUZHAN\source\repos\DugunuzmuzVar\DugunumuzVar.DtoLayer\bin\Debug\net6.0\DugunumuzVar.DtoLayer.dll
+C:\Users\OGUZHAN\source\repos\DugunuzmuzVar\DugunumuzVar.DtoLayer\bin\Debug\net6.0\DugunumuzVar.DtoLayer.pdb
+C:\Users\OGUZHAN\source\repos\DugunuzmuzVar\DugunumuzVar.DtoLayer\obj\Debug\net6.0\DugunumuzVar.DtoLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OGUZHAN\source\repos\DugunuzmuzVar\DugunumuzVar.DtoLayer\obj\Debug\net6.0\DugunumuzVar.DtoLayer.AssemblyInfoInputs.cache
+C:\Users\OGUZHAN\source\repos\DugunuzmuzVar\DugunumuzVar.DtoLayer\obj\Debug\net6.0\DugunumuzVar.DtoLayer.AssemblyInfo.cs
+C:\Users\OGUZHAN\source\repos\DugunuzmuzVar\DugunumuzVar.DtoLayer\obj\Debug\net6.0\DugunumuzVar.DtoLayer.csproj.CoreCompileInputs.cache
+C:\Users\OGUZHAN\source\repos\DugunuzmuzVar\DugunumuzVar.DtoLayer\obj\Debug\net6.0\DugunumuzVar.DtoLayer.dll
+C:\Users\OGUZHAN\source\repos\DugunuzmuzVar\DugunumuzVar.DtoLayer\obj\Debug\net6.0\refint\DugunumuzVar.DtoLayer.dll
+C:\Users\OGUZHAN\source\repos\DugunuzmuzVar\DugunumuzVar.DtoLayer\obj\Debug\net6.0\DugunumuzVar.DtoLayer.pdb
+C:\Users\OGUZHAN\source\repos\DugunuzmuzVar\DugunumuzVar.DtoLayer\obj\Debug\net6.0\ref\DugunumuzVar.DtoLayer.dll
